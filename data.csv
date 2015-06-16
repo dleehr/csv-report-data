@@ -1,12 +1,2 @@
-col1,col2
-0,3
-1,2
-6,1
-66,55
-66,55
-66,55
-66,55
-66,55
-66,55
-66,55
-66,55
+user,startDate,endDate,pctResDev,pctAdmin,pctCollabRes,pctInfra,pctTicket
+dleehr,2015-06-01,2015-06-07,25,20,45,5,5
