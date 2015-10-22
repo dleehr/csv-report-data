@@ -1,5 +1,6 @@
-user,startDate,endDate,pctResDev,pctAdmin,pctCollabRes,pctInfra,pctTicket
-dleehr,2015-08-17,2015-08-17,20,20,20,20,20
-dleehr,2015-08-18,2015-08-18,20,20,20,20,20
-dleehr,2015-08-18,2015-08-18,20,20,20,20,20
-dleehr,2015-08-18,2015-08-18,20,20,20,20,20
+user,startDate,endDate,pctResDev,pctAdmin,pctCollabRes,pctInfra,pctTicket,groups,pctTest
+dleehr,2015-08-17,2015-08-17,20,20,20,20,20,,
+dleehr,2015-08-18,2015-08-18,20,20,20,20,20,,
+dleehr,2015-08-18,2015-08-18,20,20,20,20,20,,
+dleehr,2015-08-18,2015-08-18,20,20,20,20,20,,
+dleehr,2015-08-19,2015-08-19,20,20,20,20,20,"informatics,testing",0
