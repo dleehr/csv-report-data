@@ -1,1 +1,2 @@
-
+user,groups,startDate,endDate,pctResDev,pctAdmin,pctCollabRes,pctInfra,pctTicket
+dleehr,informatics,2015-11-09,2015-11-09,20,20,20,20,20
