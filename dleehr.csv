@@ -1,0 +1,8 @@
+user,startDate,endDate,pctResDev,pctAdmin,pctCollabRes,pctInfra,pctTicket,groups,pctTest
+dleehr,2015-08-17,2015-08-17,20,20,20,20,20,,
+dleehr,2015-08-18,2015-08-18,20,20,20,20,20,,
+dleehr,2015-08-18,2015-08-18,20,20,20,20,20,,
+dleehr,2015-08-18,2015-08-18,20,20,20,20,20,,
+dleehr,2015-08-19,2015-08-19,20,20,20,20,20,"informatics,testing",0
+dleehr,2015-11-01,2015-11-07,4,32,14,18,32,informatics,
+dleehr,2015-11-08,2015-11-14,4,32,14,18,32,informatics,
